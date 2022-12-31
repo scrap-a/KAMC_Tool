@@ -25,7 +25,6 @@ kcm_tool.exe option [in.bin] [out.bin]
 ## 注意
 コナミアンティークスMSXコレクション内のデータには独自コードが入っている為に、エミュレータなどで動かないゲームも多いです。
 
-
-
-
-
+## 参考
+拙ブログにてアルゴリズムを軽く説明しています。<br>
+[発明の友](http://blog.livedoor.jp/scrap_a/archives/32546146.html)
